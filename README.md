@@ -13,8 +13,8 @@
 <br><b> Delete </b></br>
 first two lines <br>
 AtomPair CA  CA  HARMONIC  
-AtomPair CA  CA  HARMONIC 
-& last three lines</br>
+AtomPair CA  CA  HARMONIC</br> 
+<br>& last three lines</br>
 AtomPair CA  CA  HARMONIC  
 AtomPair CA  CA  HARMONIC  
 AtomPair CA difference CA -116.972 HARMONIC  
