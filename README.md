@@ -10,7 +10,7 @@
 <b> change </b> <br> *grep ^c-alpha $1 | awk '{print "AtomPair CA "$6" CA "$8" HARMONIC "$10" "$13}'* </br>  <b> to </b> 	  <br> *grep ^apps.public.ddg.minimize_with_cst: $1 | awk '{print "AtomPair CA "$7" CA "$9" HARMONIC "$11" "$14}'* </br>
 
 *sh path/to/Rosetta/main/source/src/apps/public/ddg/convert_to_cst_file.sh mincst1pga.log > input1pga.cst*
-<b> Delete </b>
+<br><b> Delete </b></br>
 first two lines
 AtomPair CA  CA  HARMONIC  
 AtomPair CA  CA  HARMONIC  
