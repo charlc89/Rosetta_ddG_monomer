@@ -20,6 +20,7 @@ AtomPair CA  CA  HARMONIC
 AtomPair CA difference CA -116.972 HARMONIC  
 
 ## 3. ddG 
-* Path/to/Rosetta/main/source/bin/ddg_monomer.static.macosclangrelease @flag.txt *
+
+*Path/to/Rosetta/main/source/bin/ddg_monomer.static.macosclangrelease @flag.txt*
 
 
