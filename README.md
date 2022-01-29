@@ -7,7 +7,7 @@
 ## 2. Constraint file: 
 ### Input file: mincst1pga.log
 #### Open /Rosetta/main/source/src/apps/public/ddg/convert_to_cst_file.sh
-#### change#### *grep ^c-alpha $1 | awk '{print "AtomPair CA "$6" CA "$8" HARMONIC "$10" "$13}'* ####to#### 	*grep ^apps.public.ddg.minimize_with_cst: $1 | awk '{print "AtomPair CA "$7" CA "$9" HARMONIC "$11" "$14}'*
+<b> change </b> *grep ^c-alpha $1 | awk '{print "AtomPair CA "$6" CA "$8" HARMONIC "$10" "$13}'* <b> to </b> 	*grep ^apps.public.ddg.minimize_with_cst: $1 | awk '{print "AtomPair CA "$7" CA "$9" HARMONIC "$11" "$14}'*
 
 *sh path/to/Rosetta/main/source/src/apps/public/ddg/convert_to_cst_file.sh mincst.log > input1pga.cst*
 
