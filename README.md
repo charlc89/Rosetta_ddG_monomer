@@ -11,10 +11,10 @@
 
 *sh path/to/Rosetta/main/source/src/apps/public/ddg/convert_to_cst_file.sh mincst1pga.log > input1pga.cst*
 <br><b> Delete </b></br>
-first two lines
+first two lines <br>
 AtomPair CA  CA  HARMONIC  
-AtomPair CA  CA  HARMONIC  
-& last three lines
+AtomPair CA  CA  HARMONIC  </br>
+<br>& last three lines</br>
 AtomPair CA  CA  HARMONIC  
 AtomPair CA  CA  HARMONIC  
 AtomPair CA difference CA -116.972 HARMONIC  
